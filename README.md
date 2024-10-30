@@ -1,7 +1,7 @@
 # DataSpark-Illuminating-Insights-for-Global-Electronics
 Project Overview
 ----------------
-DataSpark: Illuminating Insights for Global Electronics is a retail analytics project that looks at the electronics industry. It aims to give useful insights into the sales data of a global electronics retailer. The project has an impact on different areas, including how products perform, who the customers are how stores do, and how currency exchange rates affect sales.
+DataSpark: Illuminating Insights for Global Electronics is a retail analytics project that looks at the electronics industry. It aims to give useful insights into the sales data of a global electronics retailer. The project has an impact on different areas, including how products perform, who the customers are how stores do, and how currency exchange rates affect sales. 
 
 Objective
 ---------
